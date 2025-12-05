@@ -1,3 +1,4 @@
+
 # INPUT OUTPUT CHARACTERISTICS OF CE CONFIGURATION
 
 ## AIM: 
@@ -14,11 +15,11 @@
 ## THEORY
 A NPN function transistor consist of a silicon (or germanium) crystal in which a layer of p – type silicon is sandwiched between two layers of N – type silicon.  The arrow on emitter lead specifies the direction of the current flow when the emitter – base Junction is biased in the forward direction since the conductivity of the BJT depends on both the majority and minority carriers it is called bipolar device.  In CE configuration base is the i/p terminal, collector is the o/p terminal and emitter is common to both input and output.  The ratio of change in I<sub>c</sub> to change in base current Ib is known as Current amplification factor or current gain..
 ## CIRCUIT DIAGRAM: 
-## FORWARD BIAS:
+![WhatsApp Image 2025-11-28 at 10 45 25_3af36ec6](https://github.com/user-attachments/assets/fc6aa3f4-ebf8-4d9a-8543-20d667dc0f65)
 
-## REVERSE BIAS:
 
 ## MODEL GRAPH:
+![WhatsApp Image 2025-11-28 at 10 45 45_2c14312f](https://github.com/user-attachments/assets/7aea6cff-d231-4fd9-a9d9-eeceec41ceab)
 
 ## PROCEDURE:  
 ## INPUT CHARACTERISTICS
@@ -55,23 +56,31 @@ A NPN function transistor consist of a silicon (or germanium) crystal in which a
 ## TABULATION:
 
 ## INPUT CHARATERISTICS:
+![WhatsApp Image 2025-11-28 at 10 46 06_f5a97707](https://github.com/user-attachments/assets/afff19ce-e2eb-4ee3-b486-01145ee0f5ec)
 
 ## OUTPUT CHARATERISTICS:
+![WhatsApp Image 2025-11-28 at 10 46 55_5aa60821](https://github.com/user-attachments/assets/ab16d5de-f925-4e04-b63b-0b1428feae31)
 
 ## CALCULATIONS:
+![WhatsApp Image 2025-11-28 at 10 47 56_2ce1dfa3](https://github.com/user-attachments/assets/b32ea1c0-c076-49ab-bb79-3e82c5dafc01)
 
 ## GRAPH:
+## INPUT CHARATERISTICS:
+![WhatsApp Image 2025-11-28 at 10 46 38_2afc12c9](https://github.com/user-attachments/assets/7c950634-59a9-495b-97df-b8f6aedb542e)
+
+## OUTPUT CHARATERISTICS:
+![WhatsApp Image 2025-11-28 at 10 47 11_1dc8ffba](https://github.com/user-attachments/assets/9edbf711-74ac-448f-af77-7326ac326482)
 
  ## RESULT:
  The input and output characteristics of transistor in CE mode is drawn and, the h parameters are calculated.
  **Input Impedance**  
-**h<sub>ie</sub> =** _________  (Ω)
+**h<sub>ie</sub> =**  268 (Ω)
 
 **Output Admittance**  
-**h<sub>oe</sub> =** _________  (mho)
+**h<sub>oe</sub> =** 0.0001  (mho)
 
 **Forward Current Gain**  
-**h<sub>fe</sub> =** _________
+**h<sub>fe</sub> =** 0.537
 
 **Reverse Voltage Gain**  
-**h<sub>re</sub> =** _________
+**h<sub>re</sub> =** 0.05
