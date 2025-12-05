@@ -1,3 +1,4 @@
+
 # SIMULATION OF FREQUENCY RESPONSE OF COMMON BASE (CB) CONFIGURATION
 
 ## AIM:
@@ -24,13 +25,11 @@ LT-Spice
 8.Click on the run option  simulation window opens  place the probe  output graph is obtained.
 
 ## CIRCUIT DIAGRAM:
-
+![WhatsApp Image 2025-11-28 at 12 24 03_3edb925f](https://github.com/user-attachments/assets/f7d0d324-df6f-49d1-b25d-9802204935c5)
 
 
 ## OUTPUT GRAPH:
-
+![WhatsApp Image 2025-11-28 at 12 26 15_59e0e710](https://github.com/user-attachments/assets/576a4f00-95c9-4c0e-b9ad-e3befc198c4a)
 
 ## RESULT:
 Thus the frequency response of common base configuration circuit using LT-spice is simulated and verified. 
-
-
