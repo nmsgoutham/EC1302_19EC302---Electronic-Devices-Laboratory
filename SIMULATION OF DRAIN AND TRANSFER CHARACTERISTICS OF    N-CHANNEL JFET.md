@@ -1,7 +1,8 @@
-# SIMULATION OF DRAIN AND TRANSFER CHARACTERISTICS OF N-CHANNEL JFET
+
+# SIMULATION OF FREQUENCY RESPONSE OF COMMON COLLECTOR (CC) CONFIGURATION
 
 ## AIM:
-To design and simulate the drain and transfer characteristics of N-channel JFET circuit using LT-Spice.
+To design and simulate the frequency response of a common collector configuration circuit using LT-Spice.
 
 ## SOFTWARE REQUIRED:
 LT-Spice
@@ -25,13 +26,12 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 
+![WhatsApp Image 2025-11-28 at 12 24 03_95edcdf6](https://github.com/user-attachments/assets/902246ed-b56e-4150-b88a-30a451c88a77)
 
 
 ## OUTPUT GRAPH:
 
+![WhatsApp Image 2025-11-28 at 12 27 57_f6091b61](https://github.com/user-attachments/assets/7ce99b81-aa8a-47b6-b3ff-9ac9924df580)
 
 ## RESULT:
-Thus the drain and transfer characteristics of N-channel JFET circuit using LT-spice is simulated and verified. 
-
-
-
+Thus the frequency response of common collector configuration circuit using LT-spice is simulated and verified. 
